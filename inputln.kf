@@ -1,0 +1,5 @@
+import input
+
+fun inputln(limit: int = -1) -> str {
+    return input.input(limit) + "\r\n"
+}
