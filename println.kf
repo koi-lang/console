@@ -1,0 +1,5 @@
+import print
+
+fun println(*args: str) -> none {
+    print.print(args + "\r\n")
+}

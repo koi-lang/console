@@ -1,4 +1,5 @@
 from print import print
+from println import println
 
 var name = "console"
 var version = "1.0.0"
