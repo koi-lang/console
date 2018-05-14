@@ -2,6 +2,7 @@ from print import print
 from println import println
 from input import input
 from inputln import inputln
+from clear import clear
 
 var name = "console"
 var version = "1.0.0"
