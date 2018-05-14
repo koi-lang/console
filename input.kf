@@ -1,0 +1,1 @@
+magic fun input(limit: int = -1) -> str
