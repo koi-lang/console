@@ -1,1 +1,1 @@
-magic fun print(*args: str) -> none
+magic fun print(args...: str) -> none
