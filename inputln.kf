@@ -1,5 +1,5 @@
 from input import input
 
-fun inputln(limit: int = -1) -> str {
-    return input(limit) + "\r\n"
+fun inputln(text: str = "", limit: int = -1) -> str {
+    return input(text, limit) + "\r\n"
 }
